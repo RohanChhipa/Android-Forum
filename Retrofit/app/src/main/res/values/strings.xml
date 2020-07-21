@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="title_picsum">Picsum</string>
+    <string name="title_simple">Simple</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
